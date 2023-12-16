@@ -10,10 +10,10 @@ A Momento é uma empresa única que faz o melhor que pode para alcançar o melho
 6. Quanto o departamento de Transportes gasta em salários?
 7. Um novo departamento foi criado. O departamento de inovações. Ele será locado no Brasil. Por favor, adicione-o no banco de dados.
 8. Três novos funcionários foram contratados para o departamento de inovações.<br />
-  1. Por favor, adicione-os: William Ferreira, casado com Inara Ferreira, possuem uma filha chamada Maria Antônia que tem 1 anos e adora brincar com cachorros. Ele será programador.<br />
-  2. Já a Fernanda Lima, que é casada com o Rodrigo, não possui filhos. Ela vai ocupar a posição de desenvolvedora.  <br />
-  3. Por último, a Gerente do departamento será Sumaia Azevedo. Casada, duas filhas (Tainã e Nathalia).<br />
-  4. O salário de todos eles será a média salarial dos departamentos de administração e finanças.<br />
+  8.1. Por favor, adicione-os: William Ferreira, casado com Inara Ferreira, possuem uma filha chamada Maria Antônia que tem 1 anos e adora brincar com cachorros. Ele será programador.<br />
+  8.2. Já a Fernanda Lima, que é casada com o Rodrigo, não possui filhos. Ela vai ocupar a posição de desenvolvedora.  <br />
+  8.3. Por último, a Gerente do departamento será Sumaia Azevedo. Casada, duas filhas (Tainã e Nathalia).<br />
+  8.4. O salário de todos eles será a média salarial dos departamentos de administração e finanças.<br />
 9. Informe todas as regiões em que a empresa atua acompanhadas de seus países.
 10. Joe Sciarra é filho de quem?
 11. Jose Manuel possui filhos?
